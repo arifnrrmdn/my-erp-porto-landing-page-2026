@@ -1,0 +1,340 @@
+buatkan website yang responsive desktop dan mobile 
+untuk protofolio seorang ERP consultant
+
+
+buat sesuai dengan section dibawah
+
+aturan:
+color platte 
+warna utama
+DB1A1A
+warna kedua
+FFF6F6
+warna ketiga
+8CC7C4
+
+sesuaikan dengan section dibawah
+
+navbar
+Home
+Service
+Pricing & Package
+Our Products
+Information
+    Sccuss story
+    Blog
+
+---------
+
+All-in-One ERP Solution
+
+Gambar
+Arif Nur Ramadhan
+Odoo ERP Consultant
+
+Streamline your operations with Odoo ERP — an all-in-one platform that integrates sales, finance, HR, and inventory in one place. 
+With Niits Inovation Technoloy, you can simplify workflows and focus on growing your business with confidence.
+
+---------
+
+Why Choose Us?
+
+Running a business is never simple — from managing sales, inventory, and production to keeping every process aligned. 
+Choosing the right partner and system makes all the difference. With Odoo and our expertise, you don’t just get software, you get a smarter way to grow your business.
+
+[buat card 2x4]
+didalamnya tedapat: 
+
+logo
+Finance
+penjelasannya
+buton selengkapnya
+
+logo
+Sales
+penjelasannya
+button selengkapnya
+
+logo
+Website
+penjelasannya
+button selengkapnya
+
+logo
+Supply Chain
+penjelasannya
+buttonselengkapnya
+
+logo
+Human Resource
+penjelasannya
+button selengkapnya
+
+logo
+manufactur
+penjelasannya
+button selengkapnya
+
+logo
+Mareketing
+penjelasannya
+button selengkapnya
+
+logo
+Service
+penjelasannya
+button selengkapnya
+
+---------
+
+Transparent. Flexible. Scalable.
+
+We offer competitive, transparent pricing that builds trust from the start. With clear tiers, 
+startups to enterprises can choose flexible plans that match growth, ensuring value without 
+hidden costs.
+
+[buatkan card 2x3]
+
+Warehouse Management System
+Rp 240 Jt
+Price excludes 11% VAT.
+Empower your warehouse teams with seamless collaboration, real-time inventory tracking, 
+and robust features to optimize your warehouse operations.
+button order sekarang
+  Odoo Enterprise
+   Hosted on Odoo Online (SaaS)
+   No Customization
+  Includes Integrated Modules: Inventory, Barcode, Purchase, Sales, Accounting and Dashboard. 
+  Estimated Working Days 3 ManDays
+   Includes free licenses for 5 users in the first-year package
+  Includes 2 ManDays (MD) of  Training.
+  Post Go-Live Assistance for 20 ManDays (MD).
+ Excluding migration
+ Free access to all available modules on Odoo Apps
+  Supports Multi-Company* environment 
+
+
+Human Resources Management System
+Rp 300 Jt
+Price excludes 11% VAT.
+Empower your team with seamless collaboration, enhanced productivity, and robust features to 
+optimize your HR processes.
+button order sekarang
+     Odoo Enterprise
+      Hosted on Odoo Online (SaaS)
+     No Customization
+     Includes Integrated Modules: Employees, Payroll, Leaves, Attendances, Recruitment and Accounting. 
+     Estimated Working Days 5 ManDays
+      Includes free licenses for 3 users in the first-year package
+       Includes 3 ManDays (MD) of  Training.
+     Post Go-Live Assistance for 1 month (total 40 hours of support)
+     Employee data migration
+     Free access to all available modules on Odoo Apps
+     Supports Multi-Company* environment
+    *Available using custom user setup. Pricing may vary — please contact us for details
+
+Retail Management System
+Rp 270 Jt
+Price excludes 11% VAT.
+Empower your sales teams with seamless POS integration, inventory management, and 
+real-time analytics to optimize your retail operations.
+button order sekarang
+     Odoo Enterprise
+      Hosted on Odoo Online (SaaS)
+     No Customization
+     Includes Integrated Modules: POS, Inventory, Sales, Accounting and Barcode. 
+     Estimated Working Days 4 ManDays
+        Includes free licenses for 3 users in the first-year package
+     Includes 3 ManDays (MD) of Training
+     Post Go-Live Assistance for 3 weeks (total 30 hours of support)
+     Initial item and stock migration
+     Free access to all available modules on Odoo Apps
+     Supports Multi-Company* environment
+    *Available using custom user setup. Pricing may vary — please contact us for details
+
+Trading Management System
+Rp 350 Jt
+Price excludes 11% VAT.
+Empower your trading teams with seamless sales management, smart inventory tracking, and 
+real-time analytics to optimize your trading operations.
+button order sekarang
+Odoo Enterprise
+  Hosted on Odoo Online (SaaS)
+ No Customization
+ Includes Integrated Modules: CRM, Sales, Purchase, Inventory, Invoicing, Accounting and Contacts. 
+ Estimated Working Days 5 ManDays
+  Includes free licenses for 5 users in the first-year package
+ Includes 3 ManDays (MD) of Training
+ Post Go-Live Assistance for 1 month (total 40 hours of support)
+ Master data migration
+ Free access to all available modules on Odoo Apps
+ Supports Multi-Company* environment
+
+
+Manufacture Management System
+Rp 420 Jt
+Price excludes 11% VAT.
+Empower your production teams with seamless collaboration, real-time monitoring, and 
+robust features to optimize your manufacturing processes.
+button order sekarang
+ Odoo Enterprise
+  Hosted on Odoo Online (SaaS)
+ No Customization
+ Includes Integrated Modules: Accounting, Inventory, Sales, Maintenance, Purchase, MRP and Quality.
+ Estimated Working Days 8 ManDays
+  Includes free licenses for 5 users in the first-year package
+ Includes 56 hours of Implementation & Training
+ Post Go-Live Assistance for 1 month (total 40 hours of support)
+ Migration of master customers, vendors, products and initial stock.
+ Free access to all available modules on Odoo Apps
+ Supports Multi-Company* environment
+
+Finance System
+Rp 310 Jt
+Price excludes 11% VAT.
+Empower your finance teams with seamless automation, real-time insights, and powerful tools to 
+streamline your financial management.
+button order sekarang
+ Odoo Enterprise
+  Hosted on Odoo Online (SaaS)
+ No Customization
+ Includes Integrated Modules: Accounting, Invoice, Sign, Document, and Expenses. 
+ Estimated Working Days 5 ManDays
+ Includes free licenses for 3 users in the first-year package
+ Includes 2 ManDays (MD) of Training
+ Post Go-Live Assistance for 1 month (total 40 hours of support)
+ Opening balance migration
+ Free access to all available modules on Odoo Apps
+ Supports Multi-Company* environment
+*Available using custom user setup. Pricing may vary — please contact us for details
+
+
+
+---------
+
+Choose your Industry
+Choose your industry and discover how Odoo adapts business solutions to your specific needs. 
+From manufacturing, retail, services, to distribution, Odoo supports diverse sectors with an 
+integrated, flexible, and efficient system.
+
+[buat card 2x4]
+
+gambar
+retail
+penjelasannya
+button detail
+
+gambar
+food
+penjelasannya
+button buttondetail
+
+gambar
+properti
+penjelasannya
+button detail
+
+gambar
+consulting
+penjelasannya
+button detail
+
+gambar
+health & finance
+penjelasannya
+button detail
+
+gambar
+manufacturing
+penjelasannya
+button detail
+
+gambar
+trade
+penjelasannya
+button detail
+
+gambar
+logistic
+penjelasannya
+button detail 
+
+
+---------
+
+Everything you need
+
+All essential business tools in one place. No more hassle - everything is fully integrated!
+
+[buat card 2 x 3 ]
+
+Reliability
+penjelasannya
+
+scalability
+penjelasannya
+
+customizable
+penjelasannya
+
+multi-platform access
+penjelasannya
+
+performance
+penjelasannya
+
+Security & Data Protection
+penjelasannya
+
+---------
+
+Odoo with 80% cheaper investment cost than other ERPs
+
+Implementing Odoo can be up to 80% more affordable than other ERP systems, thanks to its 
+comprehensive standard features that cover most business processes. Customization is 
+only needed for unique requirements, reducing time and costs while ensuring faster, more 
+aligned implementation.
+
+gambar
+
+
+---------
+
+
+Odoo vs Other Apps
+
+Compared to standalone applications currently available, Odoo offers simplicity and efficiency 
+by providing all the features you need in one integrated application. Instead of using several 
+separate financial management, inventory, production, and marketing applications, Odoo combines 
+them all in one integrated platform.
+
+gambar
+
+
+---------
+
+
+50,000+ companies trust Odoo.
+
+Join us and make your company a better place.
+
+button (contact us)
+
+gambar
+
+---------
+
+
+footer
+
+
+Contact us anytime
+
+Call us
++62 821-3098-6139
+
+Send us a message
+niitsinovasiteknologi@gmail.com
+
+
+2025 Copyright © PT Niits Inovasi Teknologi
