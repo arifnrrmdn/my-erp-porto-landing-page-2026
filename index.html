@@ -14,7 +14,8 @@
   --text-light:#ffffff;
   --accent:#E6A23C;
 }
-body{background:var(--secondary);font-family:Arial, sans-serif;}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body{background:var(--secondary);font-family:'Montserrat'}
 
 .navbar{
   background: var(--light);
@@ -144,7 +145,7 @@ section:nth-of-type(even) .pricing-card{
 }
 
 .service-box h5 {
-  color: #F3F4F4;
+  color: #415E72;
   font-weight: 600;
   margin-bottom: 10px;
 }
@@ -515,7 +516,7 @@ section:nth-of-type(even) .pricing-card{
 
       <div class="col-md-4">
         <div class="pricing-card">
-          <h6>Trading Management System</h6>
+          <h3>Trading Management System</h3>
           <h2 class="price" style="color: #415E72;">Rp 350 Jt</h2>
           <p class="desc" style="color: #415E72;">Trading and distribution solution.</p>
 
@@ -679,7 +680,7 @@ industries.map(i => `
       <img src="${i.img}" class="img-fluid">
       <h5>${i.name}</h5>
       <p>${i.desc}</p>
-      <button class="btn btn-sm industry-btn">See Details</button>
+      <!-- <button class="btn btn-sm industry-btn">See Details</button> -->
     </div>
   </div>
 `).join('');
@@ -729,7 +730,7 @@ industries.map(i => `
 
       <div class="col-md-4 mb-3">
         <p class="mb-1">Send us a message</p>
-        <a href="mailto:niitsinovasiteknologi@gmail.com">
+        <a href="mailto:niitsinovasiteknologi@gmail.com" class="text-md-end">
           niitsinovasiteknologi@gmail.com
         </a>
       </div>
